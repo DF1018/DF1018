@@ -1,6 +1,6 @@
 ### Hi there 👋
-![alt text](photo/VS--Zeronosbilibili-0’31”.jpg)
-![alt text](photo/VS--Zeronosbilibili-0’34”.jpg)
+![alt text](photo/VS--Zeronosbilibili-0’31”.jpg =250x250)
+![alt text](photo/VS--Zeronosbilibili-0’34”.jpg =250x250)
 
 # WHO AM Ｉ
 
