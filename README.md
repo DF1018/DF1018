@@ -1,7 +1,8 @@
 ### Hi there 👋
-![alt text](photo/VS--Zeronosbilibili-0’31”.jpg =250x250)
-![alt text](photo/VS--Zeronosbilibili-0’34”.jpg =250x250)
-
+<div style="width: 60%; height: 60%">
+![alt text](photo/VS--Zeronosbilibili-0’31”.jpg)
+![alt text](photo/VS--Zeronosbilibili-0’34”.jpg)
+</div>
 # WHO AM Ｉ
 
 ##  I am DF, a programmer specializing in Python. I am currently devoted to researching Llama 2 and other Large Language Models (LLM).
