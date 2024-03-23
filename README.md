@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/DF1018/DF1018/blob/main/photo/VS--Zeronosbilibili-0%E2%80%9931%E2%80%9D.jpg" width="300"><img src="https://github.com/DF1018/DF1018/blob/main/photo/VS--Zeronosbilibili-0%E2%80%9934%E2%80%9D.jpg" width="300">
+<img src="https://github.com/DF1018/DF1018/blob/main/photo/VS--Zeronosbilibili-0%E2%80%9931%E2%80%9D.jpg" width="300"><img src="https://github.com/DF1018/DF1018/blob/main/photo/VS--Zeronosbilibili-0%E2%80%9934%E2%80%9D.jpg" width="450">
 
 # WHO AM I 
 ### I am DF, a programmer specializing in Python. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="25">
