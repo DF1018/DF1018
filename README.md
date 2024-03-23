@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text|10](photo/VS--Zeronosbilibili-0’31”.jpg)
+![alt text|width=50%](photo/VS--Zeronosbilibili-0’31”.jpg)
 ![alt text](photo/VS--Zeronosbilibili-0’34”.jpg)
 
 # WHO AM Ｉ
