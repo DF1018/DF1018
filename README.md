@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://github.com/favicon.ico" width="48">
+
 ![](https://github.com/DF1018/DF1018/blob/main/photo/VS--Zeronosbilibili-0%E2%80%9931%E2%80%9D.jpg =100x100)
 ![alt text](photo/VS--Zeronosbilibili-0’34”.jpg)
 
