@@ -9,7 +9,7 @@
 ### This is my project combining LangChain and Llama 2, and I've created both public and private versions. If you're interested, feel free to ask me for the private version.
 ### Although currently there's only a description in Traditional Chinese, I'll update it with an English version when I have time.
 
-# WHAT ARE YOU DO NOW
+# WHAT AM I DOING NOW
 ### I usually enjoy using web scraping technology to automatically obtain information about movies or comics I want to watch, gradually becoming proficient in HTML and Python scraping skills.
 <img src="https://www.webharvy.com/images/web%20scraping.png" width="400"> <img src="https://github.com/DF1018/DF1018/blob/main/photo/Screenshot_20230908-194051_Lemur_Browser.jpg" width="250">
 
