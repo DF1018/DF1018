@@ -11,7 +11,7 @@
 
 # WHAT ARE YOU DO NOW
 ### I usually enjoy using web scraping technology to automatically obtain information about movies or comics I want to watch, gradually becoming proficient in HTML and Python scraping skills.
-<img src="https://www.webharvy.com/images/web%20scraping.png" width="100"> <img src="https://github.com/DF1018/DF1018/blob/main/photo/Screenshot_20230908-194051_Lemur_Browser.jpg" width="100">
+<img src="https://www.webharvy.com/images/web%20scraping.png" width="400"> <img src="https://github.com/DF1018/DF1018/blob/main/photo/Screenshot_20230908-194051_Lemur_Browser.jpg" width="250">
 
 ### At the moment, I am working hard to improve my algorithm and logic skills. You can visit my repositories to see my latest progress on LeetCode.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DF1018?theme=dark&font=Metal&ext=activity)
